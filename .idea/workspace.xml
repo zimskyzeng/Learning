@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bae4c45f-9081-4aae-be8d-03826f770c69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/leetcode/53-0至n-1中缺失的数字-E.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/53-0至n-1中缺失的数字-E.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/679题-24点游戏-H.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/679-24点游戏-H.md" afterDir="false" />
-    </list>
+    <list default="true" id="bae4c45f-9081-4aae-be8d-03826f770c69" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
